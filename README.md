@@ -38,7 +38,7 @@ A sleek, responsive **React** app to convert between major global currencies in 
 
 ```bash
 git clone https://github.com/harsh000777/currency_converter.git
-cd currency-converter
+cd currency_converter
 npm install
 npm run dev
 ```
