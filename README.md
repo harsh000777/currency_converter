@@ -31,13 +31,14 @@ A sleek, responsive **React** app to convert between major global currencies in 
 
 🔗 [View Live on GitHub Pages](https://harsh000777.github.io/currency_converter/)
 
+
 ---
 
 ## 🔧 Installation
 
 ```bash
 git clone https://github.com/harsh000777/currency_converter.git
-cd currency-converter
+cd currency_converter
 npm install
 npm run dev
 ```
